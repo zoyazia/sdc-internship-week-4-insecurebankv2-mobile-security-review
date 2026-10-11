@@ -66,10 +66,4 @@ To observe the login request without the real backend, run `python tools/listene
 
 **With more time:** run the backend in an isolated container, validate F1, F3, F4 and F7, and capture real login traffic with a proxy.
 
-## AI assistance
 
-Claude (Anthropic) was used as a learning aid for explaining concepts, setting up the lab and emulator, reading code and tool output, and structuring the report. I ran the commands myself and reviewed the results. Items marked as not validated were not reproduced in an emulator, and severity ratings are my proposals.
-
-## Video
-
-The screen-recording walkthrough is submitted through the form shared by the Group Lead.
